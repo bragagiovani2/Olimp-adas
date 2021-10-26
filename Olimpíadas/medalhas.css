@@ -1,0 +1,37 @@
+		body{
+    		background-color: lightpink;
+
+		}
+		.ouro{
+			background-color: goldenrod;
+			font-size: 120%;
+		}
+		.prata{
+			background-color: silver;
+			font-size: 120%;
+		}
+		.bronze{
+			background-color: darkorange;
+			font-size: 120%;
+		}
+		.verde{
+			background-color: lightgray;
+			text-align: center;
+			font-size: 120%;
+		}
+		.tabela{
+			background-color: floralwhite;
+		}
+		.tabelaForte{
+			background-color: lightslategray;
+		}
+		.table{
+			width: 80%;
+			height: 80%;
+		}
+		.fonte{
+			font-size: 150%;
+		}
+		.tit{
+			font-size: 500%;	
+		}
